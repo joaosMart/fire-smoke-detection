@@ -36,10 +36,14 @@ The metrics obtained during the evaluation of the model in the test set can be f
 
 
 ### Predictions Examples
+
 Below we can see an example of some good predictions the model was able to output. 
+
 ![Good Predictions Example](images/fire_good_predictions.png)
 
+
 It's also important to note some not-so-good predictions. 
+
 ![Not-so-good Predictions](images/not_so_good_fire_pred.png)
 
 
