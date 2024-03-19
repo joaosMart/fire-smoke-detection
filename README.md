@@ -1,6 +1,6 @@
 # Fire&smoke Detection
 
-> Wildfires serve as a stark reminder of nature’s raw power, often resulting in ecological
+Wildfires serve as a stark reminder of nature’s raw power, often resulting in ecological
 devastation, displacement of wildlife and property damage. Large-scale
 fires have a huge impact on human civilization either economically, environmentally,
 or health-wise and, with the increase of the global warming crisis, it
