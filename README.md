@@ -25,10 +25,20 @@ This repository includes two notebooks. One includes the data visualization proc
 images that may impact some technical decisions further in the project. It also permitted us to learn important patterns in the data. The second notebook describes the data augmentation process and the training and evaluation process. This second notebook sometimes seems to not be available for previsualization in GitHub, so please if you are having trouble with it try to download the file. 
 The evaluation metrics achieved promising results but there is still some fine-tuning needed to be done to solve a false positive issue. Also, some more analysis of each class's performance may be needed.  
 
+The metrics obtained during the evaluation of the model in the test set can be found below. 
+
+| Metric                                                | Score | 
+| --------------------------------------------------- | ---------- | 
+|               mAP@0.5                               |   0.66     |   
+|               precision@0.5                         |   0.039    |         
+|               recall@0.5                            |   0.95     | 
+
 ### Example of Good Predictions 
 Below we can see an example of some good predictions the model was able to output. 
 ![Good Predictions Example](images/fire_good_predictions.png)
 
 It's also important to note some not-so-good predictions. 
 ![Not-so-good Predictions](images/not_so_good_fire_pred.png)
+
+
 
