@@ -9,3 +9,7 @@ of regions (rural and urban) that are possibly being affected by a fire and tryi
 to detect if there is any smoke and/or fire in the image while also predicting the
 region of the image that has them. In order to complete the task at hand it’s
 being proposed the usage of a state-of-the-art YOLO-NAS model for object detection. Recognizing a lot more work has to be done before the model becomes production ready this serves as an introductory attempt to use deep learning as a preventive wildfire intervention tool. 
+
+## Data in use
+
+The data set was obtained using the GitHub repository [DFireDataset1](https://github.com/gaiasd/DFireDataset).
