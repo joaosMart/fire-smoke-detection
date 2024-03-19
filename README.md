@@ -33,7 +33,9 @@ The metrics obtained during the evaluation of the model in the test set can be f
 |               precision@0.5                         |   0.039    |         
 |               recall@0.5                            |   0.95     | 
 
-### Example of Good Predictions 
+
+
+### Predictions Examples
 Below we can see an example of some good predictions the model was able to output. 
 ![Good Predictions Example](images/fire_good_predictions.png)
 
