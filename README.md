@@ -8,4 +8,4 @@ is becoming a growing problem in a large number of countries. The project’s ma
 of regions (rural and urban) that are possibly being affected by a fire and trying
 to detect if there is any smoke and/or fire in the image while also predicting the
 region of the image that has them. In order to complete the task at hand it’s
-being proposed the usage of a state-of-the-art YOLO-NAS model for object detection. 
+being proposed the usage of a state-of-the-art YOLO-NAS model for object detection. Recognizing a lot more work has to be done before the model becomes production ready this serves as an introductory attempt to use deep learning as a preventive wildfire intervention tool. 
