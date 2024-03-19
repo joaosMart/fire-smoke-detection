@@ -29,3 +29,6 @@ The evaluation metrics achieved promising results but there is still some fine-t
 Below we can see an example of some good predictions the model was able to output. 
 ![Good Predictions Example](images/fire_good_predictions.png)
 
+It's also important to note some not-so-good predictions. 
+![Not-so-good Predictions](images/not_so_good_fire_pred.png)
+
