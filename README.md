@@ -26,5 +26,6 @@ images that may impact some technical decisions further in the project. It also 
 The evaluation metrics achieved promising results but there is still some fine-tuning needed to be done to solve a false positive issue. Also, some more analysis of each class's performance may be needed.  
 
 ### Example of Good Predictions 
-
+Below we can see an example of some good predictions the model was able to output. 
+![images/fire_good_predictions.png]
 
